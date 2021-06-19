@@ -1,5 +1,5 @@
 ---
-title: "Wellington"
+title: "Veggie Wellington"
 date: 2020-12-06T21:57:06+01:00
 draft: true
 categories: ["mains"]

@@ -6,9 +6,7 @@ categories: ["mains"]
 tags: ["indian", "chickpeas", "dhal", "rice"]
 ---
 
-
-#### Ingredients:
-
+#### Ingredients:
 
 * 2 cans white chana (chickpeas) or 340g dried chickpeas
 * cooking oil
@@ -30,7 +28,6 @@ tags: ["indian", "chickpeas", "dhal", "rice"]
 2. Add the chopped onions and chillies if using, and fry until golden
 3. Add the tomato puree, chilli powder, tandoori masala, turmeric, garlic powder, garam masala and lemon juice
 4. Cook for a few minutes, then add the chickpeas and cook for a few minutes
-5. Add water to cover the chickpeas, salt and simmer for ~10 minutes
+5. Add water to cover the chickpeas, salt and simmer for ~10 minutes. I've also tried this recipe with part chopped tomatoes
 6. Optionally take a half cup of chickpeas out and blend them, to make the dhal thicker
 7. Serve with basmati rice, fresh tomato slices, coriander
-

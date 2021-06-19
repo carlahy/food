@@ -8,7 +8,7 @@ tag: ["pasta", "italian"]
 
 _From Ottolenghi_
 
-#### Ingredients:
+#### Ingredients:
 
 _serves 4_
 

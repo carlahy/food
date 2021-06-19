@@ -1,0 +1,186 @@
+baseURL = "https://example.com/"
+title = "What Carla Eats"
+languageCode = "en"
+hasCJKLanguage = false
+# Copyright information (Markdown supported)
+# copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+
+theme = "hugo-theme-tokiwa"
+
+# `hugo new` automatically opened text editor
+newContentEditor = ""
+
+# i18n
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+# Pluralize titles in lists?
+pluralizeListTitles = false
+
+# The length of text in words to show in summary
+summaryLength = 42
+
+# Enable Emoji emoticons support?
+enableEmoji = false
+
+# Text to display for footnote return links
+footnoteReturnLinkContents = "↩"
+
+# Enable `.GitInfo` object for each page?
+enableGitInfo = false
+
+# Enable generation of `robots.txt` file?
+enableRobotsTXT = true
+
+# Number of items per page in paginated
+# lists (valid for the `posts` homepage
+# layout in MemE)
+paginate = 5
+
+# URL related
+disablePathToLower = false
+relativeURLs = false
+uglyURLs = false
+
+# URL structure
+[permalinks]
+    categories = "/categories/:slug/"
+    tags = "/tags/:slug/"
+
+# Taxonomies
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+# Modified date
+[frontmatter]
+    lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
+
+# Markdown renderer
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark]
+        [markup.goldmark.extensions]
+            definitionList = true
+            footnote = true
+            linkify = true
+            strikethrough = true
+            table = true
+            taskList = true
+            typographer = true
+        [markup.goldmark.parser]
+            attribute = true
+            autoHeadingID = true
+            autoHeadingIDType = "github"
+        [markup.goldmark.renderer]
+            hardWraps = false
+            unsafe = true
+            xHTML = false
+    [markup.highlight]
+        codeFences = true
+        guessSyntax = false
+        lineNos = true
+        lineNumbersInTable = true
+        noClasses = false
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 6
+        ordered = true
+
+# Author’s information
+[author]
+    # Name
+    name = "Carla Hy"
+    # Email
+    email = ""
+    # Motto or introduction
+    motto = "Viva La Vida"
+    # Avatar
+    avatar = "/icons/apple-touch-icon.png"
+    # Personal website, default: baseURL
+    website = "https://io-oi.me/"
+    # Twitter
+    twitter = "carlahy"
+
+# Related content
+[related]
+    threshold = 80
+    includeNewer = true
+    toLower = true
+    [[related.indices]]
+        name = "categories"
+        weight = 100
+    [[related.indices]]
+        name = "tags"
+        weight = 95
+    [[related.indices]]
+        name = "date"
+        weight = 10
+        pattern = "2006"
+
+# MIME type of Atom
+[mediaTypes."application/atom+xml"]
+    suffixes = ["xml"]
+
+# Custom Atom template of MemE
+[outputFormats.SectionsAtom]
+    mediaType = "application/atom+xml"
+    baseName = "atom"
+
+# Custom RSS template of MemE
+[outputFormats.SectionsRSS]
+    mediaType = "application/rss+xml"
+    baseName = "rss"
+
+# Search index for lunr.js
+[outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search"
+
+# Hugo’s output control
+[outputs]
+    page = ["HTML"]
+    home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex"]
+    section = ["HTML"]
+    taxonomy = ["HTML"]
+    term = ["HTML"]
+
+# Maximum number of items in the Atom & RSS feed
+[services.rss]
+    limit = -1
+
+[menu]
+    [[menu.main]]
+        url = "/posts/"
+        name = "Posts"
+        weight = 2
+        pre = "internal"
+        post = "archive"
+    [[menu.main]]
+        url = "/categories/"
+        name = "Categories"
+        weight = 3
+        pre = "internal"
+        post = "th"
+    [[menu.main]]
+        url = "/tags/"
+        name = "Tags"
+        weight = 4
+        pre = "internal"
+        post = "tags"
+    [[menu.main]]
+        url = "/about/"
+        name = "About"
+        weight = 5
+        pre = "internal"
+        post = "user-circle"
+    [[menu.main]]
+        weight = 6
+        identifier = "theme-switcher"
+    [[menu.main]]
+        weight = 7
+        identifier = "lang-switcher"
+    [[menu.main]]
+        weight = 8
+        identifier = "search"
+        post = "search"

@@ -6,7 +6,7 @@ categories: ["fermented", "paste"]
 tags: ["fermented", "paste", "garlic", "umami", "ginger"]
 ---
 
-#### Ingredients
+#### Ingredients
 
 * garlic
 * salt
