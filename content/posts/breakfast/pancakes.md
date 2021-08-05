@@ -9,7 +9,7 @@ categories: ["breakfast"]
 ### Ingredients
 
 * 1.5 cups flour
-* 3.5 tsp baking powder
+* 3.5 tsp baking powder (14g)
 * 1 tsp salt
 * 2 tbsp sugar
 * 1 cup mylk (soy)
