@@ -2,7 +2,7 @@
 title: "Pancakes"
 date: 2021-06-17T14:00:59+02:00
 draft: true
-tags: ["pancake", "american", "sourdough"]
+tags: ["pancake", "american", "sourdough", "breakfast"]
 categories: ["breakfast"]
 ---
 
