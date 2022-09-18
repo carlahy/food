@@ -6,6 +6,8 @@ categories: ["mains"]
 tags: ["indian", "chickpeas", "dhal", "rice"]
 ---
 
+*From 'An Indian Housewife's Recipe Book', by Laxmi Khurana*
+
 #### Ingredients:
 
 * 2 cans white chana (chickpeas) or 340g dried chickpeas
