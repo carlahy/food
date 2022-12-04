@@ -3,7 +3,7 @@ title: "Red Wine & Shallot Gravy"
 date: 2020-12-06T22:43:11+01:00
 draft: false
 categories: ["sauces"]
-flags: ["gravy", "roast", "red wine"]
+tags: ["gravy", "roast", "red wine", "thanksgiving"]
 ---
 
 #### Ingredients:

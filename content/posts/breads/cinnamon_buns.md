@@ -8,6 +8,9 @@ tags: ["breakfast", "bread", "american", "cinnamon"]
 
 __Makes 12 buns__
 
+*From [Erin 
+Ireland](https://erinireland.ca/vegan-recipes/the-best-ever-soft-and-gooey-cinnamon-buns-by-indian-rock-vegans/)*
+
 ### Ingredients
 
 * 4 tsp active dry yeast
@@ -24,6 +27,8 @@ __Makes 12 buns__
 * 1/2 vegan butter at room temp
 * 1 cup white sugar
 * 3 tbsp cinnamon
+* 2 tbsp cocoa powder (optional)
+* 1 cup toasted, chopped pecans
 
 ##### Pan Sauce
 

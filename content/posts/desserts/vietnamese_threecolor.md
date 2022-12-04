@@ -2,7 +2,7 @@
 title: "Vietnamese Three Color (che ba mau)"
 date: 2022-09-18T19:56:13+02:00
 draft: false
-categories: ["desserts"]
+categories: ["dessert"]
 tags: ["vietnamese"]
 ---
 
