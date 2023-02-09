@@ -6,19 +6,19 @@ categories: ["cookies"]
 tags: ["cookies", "winter", "christmas", "spice"]
 ---
 
-_From hotforfood_
+_From [hotforfood](https://www.hotforfoodblog.com/recipes/2013/12/18/chewy-ginger-cookies/)_
 
 #### Ingredients:
 
 _makes 12_
 
 * 2 cups flour
-* 3tsp ground ginger
+* 3 tsp ground ginger
 * 2 tsp ground cinnamon
 * 1 tsp ground cloves
 * 1 tsp baking soda
 * 1/2 tsp salt
-* 1/2 C butter, sub oil
+* 1/2 C butter, sub coconut oil
 * 1/4 C molasses
 * 1/4 C mylk (soy or oat)
 * 1/2 C brown sugar
